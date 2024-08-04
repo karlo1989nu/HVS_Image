@@ -1,0 +1,48 @@
+{
+  "list1": [
+    { "name": "Idealised environment", "values": "Featureless Arena" },
+    {
+      "name": "Laboratory environment",
+      "values": "Standard Laboratory v2017.2.28"
+    },
+    { "name": "Forest", "values": "ForestScene" },
+    {
+      "name": "Minimalist house in forest clearing",
+      "values": "House_In_Forest_Clearing"
+    },
+    { "name": "Italian apartment", "values": "Interior" },
+    { "name": "Suburban street", "values": "DaytimeStreet" }
+  ],
+
+  "list2": [
+    { "name": "North", "values": "0 1.13 0.8 0 0 0" },
+    { "name": "South", "values": "0 1.13 -0.8 0 180 0" },
+    { "name": "East", "values": "0.8 1.13 0 0 90 0" },
+    { "name": "West", "values": "-0.8 1.13 0 0 270 0" },
+    { "name": "North East", "values": "0.566 1.13 0.566 0 45 0" },
+    { "name": "South East", "values": "0.566 1.13 -0.566 0 135 0" },
+    { "name": "South West", "values": "-0.566 1.13 -0.566 0 225 0" },
+    { "name": "North West", "values": "-0.566 1.13 0.566 0 315 0" }
+  ],
+
+  "list3": [
+    { "name": "Regular (hidden target)", "values": "Regular" },
+    { "name": "Visible Target", "values": "Visible Target" },
+    { "name": "Probe", "values": "Probe" }
+  ],
+
+  "list4": [
+    { "name": "North East Quadrant", "values": "0.354 1.13 0.354 0 0 0" },
+    { "name": "South East Quadrant", "values": "0.354 1.13 -0.354 0 0 0" },
+    { "name": "South West Quadrant", "values": "-0.354 1.13 -0.354 0 0 0" },
+    { "name": "North West Quadrant", "values": "-0.354 1.13 0.354 0 0 0" }
+  ],
+
+  "list5": [
+    { "name": "No visible platform", "values": "20 1.13 0.354 0 0 0" },
+    { "name": "North East Quadrant", "values": "0.354 1.13 0.354 0 0 0" },
+    { "name": "South East Quadrant", "values": "0.354 1.13 -0.354 0 0 0" },
+    { "name": "South West Quadrant", "values": "-0.354 1.13 -0.354 0 0 0" },
+    { "name": "North West Quadrant", "values": "-0.354 1.13 0.354 0 0 0" }
+  ]
+}

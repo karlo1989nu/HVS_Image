@@ -1,0 +1,82 @@
+[
+  {
+    "label": "User Name:",
+    "type": "text",
+    "name": "USER_NAME"
+  },
+  {
+    "label": "Trial Name:",
+    "type": "text",
+    "name": "TRIAL_NAME"
+  },
+  {
+    "label": "Environment:",
+    "type": "text",
+    "name": "SET_SCENE",
+    "dropdown": true,
+    "list": "list1"
+  },
+  {
+    "label": "Participant ID:",
+    "type": "text",
+    "name": "SUBJECT"
+  },
+  {
+    "label": "Group name:",
+    "type": "text",
+    "name": "DESCRIPTOR"
+  },
+  {
+    "label": "Remarks:",
+    "type": "text",
+    "name": "REMARKS"
+  },
+  {
+    "label": "Trial type:",
+    "type": "text",
+    "name": "TRIAL_TYPE",
+    "dropdown": true,
+    "list": "list3"
+  },
+  {
+    "label": "Start point:",
+    "type": "text",
+    "name": "TRIAL_START_POINT",
+    "dropdown": true,
+    "list": "list2"
+  },
+  {
+    "label": "Target radius:",
+    "type": "float",
+    "name": "TARGET_RADIUS"
+  },
+  {
+    "label": "Target position:",
+    "type": "float",
+    "name": "TARGET_POSITION",
+    "dropdown": true,
+    "list": "list4"
+  },
+  {
+    "label": "Visible target:",
+    "type": "float",
+    "name": "MOVE_OBJECT Visible_10cm_Platform",
+    "dropdown": true,
+    "list": "list5"
+  },
+  {
+    "label": "Maximum time (secs):",
+    "type": "float",
+    "name": "MAXIMUM_TIME"
+  },
+  {
+    "label": "Time participant is kept at target (secs):",
+    "type": "float",
+    "name": "STOP_INTERVAL"
+  },
+  {
+    "label": "Time between trials(secs):",
+    "type": "float",
+    "name": "INTER_TRIAL_INTERVAL"
+  }
+]

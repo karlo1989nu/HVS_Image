@@ -1,0 +1,36 @@
+/* Personalized styles */
+.body {
+  font-family: futuran, sans-serif;
+  color: #ffffff;
+  border-radius: 5px;
+  color: #233452;
+}
+.card {
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header,
+.trial-header {
+  background-color: #000000;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.btn {
+  margin-right: 10px;
+  background-color: #fc0505;
+}
+
+.btn.btn-success:hover {
+  background-color: #aa1616; /* Changes color to darker red */
+  color: #fff; /* text color to white */
+}
